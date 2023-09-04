@@ -10,6 +10,6 @@ print( 15%4 )
 # de tweede is 11 omdat, 15-4= 11
 # de derde is 60 omdat, 15x4= 60
 # de vierde is 3,75 omdat, als je 15:4 doet je als antwoordt 3,75 krijgt
-# de vijfde is 3 omdat, 
+# de vijfde is 3 omdat, // betekend dat je de decimalen weg haalt, daarom is het antwoord 3 en niet 3,75
 # de zesde is 50625 omdat,
 # de zevende is 3 omdat,

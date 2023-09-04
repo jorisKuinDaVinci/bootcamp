@@ -73,7 +73,7 @@ Bereken ook wat er overblijft.
 
 Opdracht 9:
 Maak nu een programma waarin alle getallen variabelen zijn en zorg ervoor de uitkomst wordt geprint. 
-Het totaal bedrag aan collegegeld betaald door (de ouders van) alle studenten uit jouw klas. 
+Het totaal bedrag aan collegegeld betaald door (de ouders van) alle studenten uit jouw klas. 21 leerlingen in de klas
 Hoeveel studenten zijn er in jouw klas? Wat is het collegegeld voor dit studiejaar? Even opzoeken. 
 
 De BTW voor al het fruit in de fruitmand: 
@@ -81,7 +81,7 @@ je betaalde 3.40 euro voor de appels,
 2.45 voor de druiven, 
 1.95 voor de bananen. 
 
-En By The Way wat is de BTW op fruit? Even opzoeken!
+En By The Way wat is de BTW op fruit? Even opzoeken! BTW= 9%
 
 
 Opdracht 10:
