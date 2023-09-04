@@ -1,4 +1,4 @@
-naam= ("joris")
+naam= "joris"
 print("Hallo " + naam + ", ik leer nu programmeren."  ) 
-naam= ("buurman")
+naam= "buurman"
 print("Hallo " + naam + ", ik leer nu programmeren."  ) 
