@@ -16,7 +16,7 @@ aanbiedings_zin = ''
 # tot 25 jaar studenten
 # vaaf 50 senioren_tarief
 if leeftijd < 18:
-    aanbiedings_zin = ("je mag helaas zelf nog geen abbomemnt afsluiten!")
+    aanbiedings_zin = ("je mag helaas zelf nog geen abonnement afsluiten!")
 elif leeftijd < 50: 
     aanbiedings_zin = ("Je krijgt van ons gratis 2 GB extra data (vanaf 25 GB)")
     if leeftijd < 25:
