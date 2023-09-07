@@ -8,8 +8,12 @@ Print 20 keer:
 (Let op: je mag maar 4 regels code gebruiken)
 
 Opdracht 3: 
-Bereken met een while loop hoeveel keer 25 in 625 past.
+Bereken met een while loop hoeveel keer 25 in 625 past. 
 (Let op: max. 8 regels code!)
+a = 5
+c = 9
+while (a < C)
+een while loop blijft door gaan tot getal is bereikt!
 
 Opdracht 4:
 Neem je programma van opdracht 3. 
