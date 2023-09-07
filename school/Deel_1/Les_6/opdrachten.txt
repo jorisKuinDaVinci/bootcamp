@@ -1,3 +1,5 @@
+opdrachten af:
+1, 
 Opdracht 1:
 Wat klopt er niet in deze code:
 	"if x = 18:

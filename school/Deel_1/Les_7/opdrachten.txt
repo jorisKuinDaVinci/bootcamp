@@ -1,3 +1,5 @@
+opdrachten af:
+1, 2, 3, 4, 5
 Opdracht 1:
 Print onder elkaar de getallen 1 t.m. 25.
 (Let op: je mag maar 4 regels code gebruiken)
@@ -12,12 +14,12 @@ Bereken met een while loop hoeveel keer 25 in 625 past.
 (Let op: max. 8 regels code!)
 a = 5
 c = 9
-while (a < C)
+while (a < C) # zolang
 een while loop blijft door gaan tot getal is bereikt!
 
 Opdracht 4:
 Neem je programma van opdracht 3. 
-Gebruik het nu om uit te rekenen hoeveel keer 12 in 625 past. (12x52=624, dus 12x!)
+Gebruik het nu om uit te rekenen hoeveel keer 12 in 625 past. (12x52=624, dus 52x!)
 Moest je hier nog iets voor aanpassen (behalve dan wat cijfers)? 
 (Let op: ook dit kan in max. 8 regels code!)
 

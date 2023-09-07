@@ -1,4 +1,5 @@
-# Hoi Aydin, wat is je leeftijd?
+# Hoi Joris, wat is je leeftijd?
+naam = "Joris" 
 zin = f"Hoi {naam}, wat is je leeftijd?"
 leeftijd = int(input(zin))
 

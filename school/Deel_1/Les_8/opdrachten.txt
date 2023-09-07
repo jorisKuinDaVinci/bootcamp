@@ -1,3 +1,5 @@
+opdrachten af:
+
 Opdracht 1:
 In Nederland krijg je op school regelmatig een cijfer.
 Wist je dat bij die cijfers ook een omschrijving hoort? 
@@ -6,7 +8,7 @@ Schrijf jij een programma wat de juiste omschrijving print bij een cijfer.
 Houd rekening met het volgende:
 Je schrijft een programma met 1 variabele: cijfer. Dit cijfer gebruik je om de omschrijving te printen:
 
-Cijfer	Omschrijving
+Cijfer	Omschrijving.
 10	uitmuntend
 9	zeer goed
 8	goed
