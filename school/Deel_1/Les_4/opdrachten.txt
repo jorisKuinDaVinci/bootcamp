@@ -66,7 +66,7 @@ Wat gebeurt hier? Schrijf dit op als commentaar!
 
 
 Opdracht 8:
-Schrijf een programma wat uitrekent hoeveel keer 13 (helemaal) in 625 past!
+Schrijf een programma wat uitrekent hoeveel keer 13 (helemaal) in 625 past!(13 past 48 keer in 625 want 13x48=624)
 Bereken ook wat er overblijft.
 (hint: gebruik de modulo en integer deling (of floor division))
 
@@ -74,15 +74,26 @@ Bereken ook wat er overblijft.
 Opdracht 9:
 Maak nu een programma waarin alle getallen variabelen zijn en zorg ervoor de uitkomst wordt geprint. 
 Het totaal bedrag aan collegegeld betaald door (de ouders van) alle studenten uit jouw klas. 21 leerlingen in de klas
-Hoeveel studenten zijn er in jouw klas? Wat is het collegegeld voor dit studiejaar? Even opzoeken. 
+Hoeveel studenten zijn er in jouw klas? Wat is het collegegeld voor dit studiejaar? Even opzoeken.
+(€1115,- per jaar= collegegeld)
 
 De BTW voor al het fruit in de fruitmand: 
 je betaalde 3.40 euro voor de appels, 
 2.45 voor de druiven, 
 1.95 voor de bananen. 
+totaal= 7,80
 
 En By The Way wat is de BTW op fruit? Even opzoeken! BTW= 9%
 
 
 Opdracht 10:
 Schrijf een programma wat uitrekent hoeveel seconden er in een dag zitten. (en in een week) (en in een jaar)
+
+1 dag =
+86 400 seconden
+1 Week =
+604 800 seconden
+1 maand =
+2 629 743,83 seconden
+1 jaar =
+31 556 926 seconden

@@ -13,7 +13,7 @@ Bereken met een while loop hoeveel keer 25 in 625 past.
 
 Opdracht 4:
 Neem je programma van opdracht 3. 
-Gebruik het nu om uit te rekenen hoeveel keer 12 in 625 past.
+Gebruik het nu om uit te rekenen hoeveel keer 12 in 625 past. (12x52=624, dus 12x!)
 Moest je hier nog iets voor aanpassen (behalve dan wat cijfers)? 
 (Let op: ook dit kan in max. 8 regels code!)
 
