@@ -1,19 +1,33 @@
+omschrijving = "onbekent"
 naam = "Joris" 
 zin = f"Hoi {naam}, wat is je cijfer?"
 cijfer = int(input(zin))
+if cijfer==1:
+    omschrijving = "zeer slecht"
+elif cijfer==2:
+    omschrijving = "slecht"    
+elif cijfer==3:
+    omschrijving = "gering" 
+elif cijfer==4:
+    omschrijving = "onvoldoende" 
+elif cijfer==5:
+    omschrijving = "bijna voldoende" 
+elif cijfer==6:
+    omschrijving = "voldoende" 
+elif cijfer==7:
+    omschrijving = "ruim voldoende" 
+elif cijfer==8:
+    omschrijving = "goed" 
+elif cijfer==9:
+    omschrijving = "zeer goed" 
+elif cijfer==10:
+    omschrijving = "uitmuntend"                                 
 
-STANDAARD_CIJFER = 6
-omschrijving = "goed"
+if cijfer>6:
+    print(f"Gefeliciteerd, {omschrijving} je resultaat is een {cijfer}")
+elif cijfer<6: 
+    print(f"Jammer, {omschrijving} je resultaat is een {cijfer}")
+#elif cijfer>10: 
+    #print(f"Dit kan ik niet omzetten!")  
+# deze code werkt wel    
 
-cijfer_zin = ''
-
-if cijfer < 6:
-    cijfer_zin = ("Gefeliciteerd, {omschrijving} je resultaat is een {cijfer}")
-elif cijfer > 6: 
-    cijfer_zin = ("Jammer, {omschrijving} je resultaat is een {cijfer}")
-elif cijfer > 10: 
-    cijfer_zin = ("Dit kan ik niet omzetten!")    
-
-# ik weet dat er hier niet een cijver uitkomt maar ik weet niet een andere manier om dit te coderen 
-# ik weet niet waarom het niet werkt 
-# zie schermafbeeldingen  

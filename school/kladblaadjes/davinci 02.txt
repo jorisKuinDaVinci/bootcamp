@@ -1,0 +1,106 @@
+99074486 is joris kuin student nummer van davinci 
+lessen die ik nog moet maken:
+5,6,9
+
+Klas: LPIAO23A3
+Klas: 23A3
+volgende week valt de les rekenen uit!(docent is dan afwezig!)(neergezet op 05-09-2023)
+ziek melden kan vanaf 8 uur in de ochtend je moet dan het nummer bellen dat hiervoor in je telefoon staat!
+
+app.nearpod.com
+pin: NZMXC
+7zip kun je ook nog installeren
+als je in een map in de lokatie cmd invoerd opent dat de opdrachtprompt
+
+
+met ctrl en / verandert je commertaar
+
+int(input("dit is een getal!"))
+int maakt iets een getal!
+het heeft een string nodig!
+zin = input("wat is je leeftijd?")
+a = int(zin)
+a = int(input("wat is je leeftijd?"))
+else = als het niet aan de condities voldoet dan dit
+
+
+
+er is op het internet niets over mij te vinden. (burgerschap vraag)
+a=afwezig
+x=aanwezig
+
+
+je moet nog de github student pack halen op github.com! (dit heb ik gedaan ik krijg nog een email op mijn davinci email van GitHub hierover!)(email heb ik gekregen!)
+
+Be sure to check your email. If you don't hear from us within the hour, you should receive an email from us in less than 7 days. Have an Octotastic day! (van Github website)
+Tiobe= site voor hoeveel een programmeer programma gebruikt wordt
+
+thonny moet je zelf updaten doet doet hij niet zelf! (thonny is een programma op je computer!)
+
+
+# < kleiner dan 
+ # > groter dan
+ # = gelijk aan
+ # != niet gelijk aan 
+
+
+/ is delen in code
+
+
+100 + 9 = 109
+
+100 + 21 = 121
+
+
+
+les 3:
+opdr 1:
+a:
+21 * 1115 = 23415
+b:
+De BTW voor al het fruit in de fruitmand: 
+je betaalde 3.40 euro voor de appels, 
+2.45 voor de druiven, 
+1.95 voor de bananen.
+totaal = 7,80
+stap b mag je overslaan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# is hetzelfde als -- in EAWFOC in notepad++ het laat je iets typen zonder dat het als code wordt gebruikt!
+snake_case
+niet 
+camel_case
+
+
+
+
+
+
+
+
+
+
+
+
+
