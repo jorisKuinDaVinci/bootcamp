@@ -1,6 +1,6 @@
 Opdracht 1:
 Herstel de fout die je kreeg toen je "Hallo 252, ik leer nu programmeren." probeerde te printen.
-
+.
 
 Opdracht 2:
 Wat gebeurt hier nu weer:

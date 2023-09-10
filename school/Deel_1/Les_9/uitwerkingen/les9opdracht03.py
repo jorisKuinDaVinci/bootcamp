@@ -1,4 +1,10 @@
-j = "ja"
-n = "nee"
-
-if leeftijd == 18, snor = j (of n) en diploma = j (of n).
+snor = "heb je een snor?"
+int(input(snor))
+diploma = "heb je een diploma?"
+int(input(diploma))
+leeftijd = "wat is je leeftijd?"
+int(input(leeftijd))
+if leeftijd==18: 
+    print(f"Gefeliciteerd, je bent aangenomen!")
+elif  leeftijd<18:
+    print(f"Gefeliciteerd, je bent aangenomen!")         
