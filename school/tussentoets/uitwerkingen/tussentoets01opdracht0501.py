@@ -1,15 +1,25 @@
 from time import sleep # je hoeft nog niet te weten wat een import is, Kopieer deze regel en je kunt je programma laten wachten met de opdracht sleep(x seconden)
 
-
 oppervlakte = int(input('Hoeveel m2 vloerbedekking heeft u nodig?'))
 prijs_m2 = 40
 
-print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
-sleep(1)
-print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
-sleep(1)
-print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
-sleep(1)
+while oppervlakte <= 250:
+    print(oppervlakte) 
+    print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
+    sleep(1)
+    oppervlakte+=1 # x = x + 1
+else:
+    if oppervlakte>250:
+        print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
+        sleep(1)
+        print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
+        sleep(1)
+        print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
+        sleep(1)
+        print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
+        sleep(1)
+        print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
+        sleep(1)
 
 # secret code containing the answer of question 4
 
