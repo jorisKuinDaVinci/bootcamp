@@ -44,3 +44,4 @@ Je mag maar 1 if statement gebruiken!!!.
 
 Test je programma door de variabelen te wijzigen.
 
+.

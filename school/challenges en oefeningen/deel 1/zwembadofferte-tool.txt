@@ -1,0 +1,69 @@
+Opdracht
+Wat kost een zwembad?
+“Let op: commit en paush je opdracht na iedere stap”
+
+Onze smartphone man Joris is een eigen bedrijfje begonnen. De eerste zwembaden zijn geplaatst en het bedrijfje begint lekker te lopen. Een naam voor het bedrijf heeft Joris al: “Swimming garden”.
+
+Je raad het al, Joris heeft een bedrijf wat zwembaden aanlegt. Regelmatig krijgt Joris de vraag om een offerte aan te maken, tot voor kort deed Joris dat in Excel maar met de stijging van het aantal aanvragen wil Joris graag een stukje automatiseren in het offerte proces.
+
+Stap voor stap gaan we aan de slag met een offertetool voor Joris.
+
+Joris heeft al wel wat info aangeleverd:
+De kosten voor een zwembad bestaan uit een aantal onderdelen:
+
+Voorrijkosten (afhankelijk van de afstand en grootte van het zwembad)
+Kosten voor het uitgraven (gerekend in m3 (kubieke meters))  
+Kosten voor het afvoeren van de grond (gerekend per m3)
+Kosten voor het aanbrengen van de wand en vloer (gerekend per m2 (vierkante meter) afhankelijke van de grootte van het bad)
+Verder heeft Joris het volgende staatje aangeleverd:
+(dit staat op itslearing)
+
+“Let op: bij de berekening van de inhoud van het zwembad mag je afronden op 2 decimalen. Joris kijkt niet op een kruiwagen grond meer of minder. Hint: gebruik de BIF round()”
+
+Stap 1:
+Print hoeveel grond moet worden afgevoerd voor een zwembad van 8 meter lang, 3 meter breed en 1,5 meter diep.
+“Print alleen een getal”
+
+ 
+ 
+
+Stap 2:
+Bereken hoeveel de prospect moet betalen voor het afvoeren van de grond en uitgraven van het zwembad (van 8 bij 3 bij 1,5 meter)?
+Print de volgende regels:
+
+Offerte voor een zwembad van 8 bij 3 bij 1,5 meter (inhoud: xx m3)
+Uitgraven:                         € xxx.xx
+Afvoeren grond:              € xxx.xx
+Totaal:                               € xxx.xx
+
+Stap 3:
+Bereken hoeveel voorrijkosten de prospect uit het voorbeeld moet betalen. Het zwembad moet op 60 kilometer afstand van het bedrijf van Joris worden geplaatst.
+Let op: de kosten hangen af van grootte van het zwembad en de afstand.
+Breid de vorige opdracht uit met de regel:
+Offerte voor een zwembad van 8 bij 3 bij 1,5 meter (inhoud: xx m3)
+Uitgraven:                          € xxx.xx
+Afvoeren grond:               € xxx.xx
+Voorrijkosten                    € xxx.xx
+Totaal:                               € xxx.xx
+
+Stap 4:
+
+Zorg ervoor dat de hoogte, breedte, diepte en de afstand kunnen worden ingevoerd via het scherm. Controleer daarna al je berekeningen.
+
+Stap 5:
+(dit staat op itslearing)
+
+
+Breid je programma uit met de kosten voor het afwerken van het zwembad.
+Stap 5a:
+
+Bereken hoeveel vierkante meter het zwembad groot is (wanden + bodem).
+
+Stap 5b:
+Breid je offerte als volgt uit:
+Offerte voor een zwembad van x bij x bij x meter (inhoud: xx m3)
+Uitgraven:                         € xxx.xx
+Afvoeren grond:               € xxx.xx
+Voorrijkosten                    € xxx.xx
+Beton + tegel (xx m2)      € xxx.xx
+Totaal:                                € xxx.xx
