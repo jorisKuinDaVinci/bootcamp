@@ -1,12 +1,17 @@
 bedrijven die een media protocol hebben:
 
-probaz
-verus
+probaz : https://drive.google.com/file/d/162mqPMLwKUUj1o3f4f2uVMk3IgSiq93_/view?usp=drive_link
+verus : Verus | Modelprotocol social media
 
 overeenkomsten:
-	geen opnames tijdens lesuren
-	geen toestemming tot hacken
-	verantwoordelijk voor wat je zelf post op sociale media
-	toesteming nodig van leerling en ouder om een media te posten (tot 16 jaar dan alleen van leerling)
+	-geen opnames tijdens lesuren
+	-geen toestemming tot hacken
+	-verantwoordelijk voor wat je zelf post op sociale media
+	-toesteming nodig van leerling en ouder om een media te posten (tot 16 jaar dan alleen van leerling)
+
 Verschillen:
-	bij twijfel van posten vraag aan leiding gevende toesteming
+	-bij twijfel van posten vraag aan leidinggevende toesteming
+-bij verschillende bedrijven mogen er andere media gepost worden zoals er een verschil kan zijn tussen leraar en fabrieksmedewerker de een heeft een groter beeld dan de ander voor een bedrijf
+- de straffen/gevolgen zij verschillend het ene bedrijf is veel strenger dan het ander
+- bij de een moet je voor je 16de toestemming hebben van leerling en verzorger en daarna alleen van de leerling en bij de ander altijd voor toestemming van beide
+
