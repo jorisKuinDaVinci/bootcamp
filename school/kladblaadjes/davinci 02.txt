@@ -109,6 +109,10 @@ niet
 camel_case
 
 
+een constante is altijd in hele word hoofdletters!
+while True betekkent alltijd door gaan
+
+
 
 
 
