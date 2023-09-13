@@ -1,11 +1,12 @@
-naam = input('wat is je naam? ')
+naam = (input(f"wat is je naam?"))
 
 #kleuren = ('zwart','wit','rood','oranje','groen','blauw','geel','paars','roze','bruin','grijs')
 kleuren = ('zwart','wit','rood','oranje','blauw','paars','grijs')
 
-kleur = input('Welke kleur vindt u mooi? ')
+kleur = (input(f"Welke kleur vindt je mooi?"))
 
 if kleur in kleuren:
-    print("{naam}, ik vindt {kleur} ook een mooie kleur!")
+    print(f"{naam}, ik vindt {kleur} ook een mooie kleur!")
 else:
-    print("Deze kleur is niet zo geweldig!")
+    print(f"Deze kleur is niet zo geweldig!")
+# deze code werkt    
