@@ -1,0 +1,1 @@
+cijfer = input("wat is je cijfer?")

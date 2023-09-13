@@ -2,6 +2,15 @@
 
 
 lessen die ik nog moet maken:
+programmeren:
+les:
+les 12, les 13
+basis ICT:
+1 l PC Hardware - basiskenis moederbord & processor:
+Opdracht: CPU
+Pc en laptop samenstellen
+5.Inventarislist + mappenstructuur + office installeren:
+Inventarislijst + mappenstructuur + office installeren
 nederlands:
 studiemeter, lesmatriaal, TNT:
 lezen, spelling, stijl en woordkennis
@@ -32,7 +41,7 @@ pin: NZMXC
 7zip kun je ook nog installeren
 als je in een map in de lokatie cmd invoerd opent dat de opdrachtprompt
 
-
+een fuctie werk niet als er geen () achter staan!
 met ctrl en / verandert je commertaar
 
 int(input("dit is een getal!"))
