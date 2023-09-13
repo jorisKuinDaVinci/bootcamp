@@ -1,5 +1,5 @@
 Opdracht 1.
-Maak de expressies af (vul de juiste operator in)
+Maak de expressies af (vul de juiste operator in).
 Let op: soms zijn er meerdere mogelijkheden, 1 antwoord is genoeg.
 
 print(6 . 3) 	# toont: 18

@@ -63,6 +63,9 @@ thonny moet je zelf updaten doet doet hij niet zelf! (thonny is een programma op
  # = gelijk aan
  # != niet gelijk aan 
 
+T = true
+F= false
+
 
 / is delen in code
 
