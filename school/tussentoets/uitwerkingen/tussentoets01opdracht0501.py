@@ -2,18 +2,13 @@ from time import sleep # je hoeft nog niet te weten wat een import is, Kopieer d
 
 oppervlakte = int(input('Hoeveel m2 vloerbedekking heeft u nodig?'))
 prijs_m2 = 40
+teller = 1
+AANTAL_PRINTJES = 18
 
-while oppervlakte <= prijs_m2:
-    print(oppervlakte) 
+while teller <= AANTAL_PRINTJES :
     print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
     sleep(1)
-    oppervlakte = oppervlakte + 1 # x = x + 1
-else:
-    while oppervlakte >= prijs_m2:
-        print(oppervlakte) 
-        print("Een moment geduld a.u.b., de scherpste prijs wordt berekend.")
-        sleep(1)
-        oppervlakte = oppervlakte + 1
+    teller = teller + 1 # x = x + 1
 
 # secret code containing the answer of question 4
 
