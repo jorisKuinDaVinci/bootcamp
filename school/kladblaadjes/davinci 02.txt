@@ -3,7 +3,7 @@
 
 lessen die ik nog moet maken:
 programmeren:
-les:
+lessen:
 les 12
 basis ICT:
 1 l PC Hardware - basiskenis moederbord & processor:
