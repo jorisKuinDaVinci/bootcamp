@@ -8,9 +8,8 @@ A en B en de opdrachten in die mappen maken
 programmeren:
 lessen:
 les 12
+les 15
 basis ICT:
-1 l PC Hardware - basiskenis moederbord & processor:
-Pc en laptop samenstellen
 5.Inventarislist + mappenstructuur + office installeren:
 Inventarislijst + mappenstructuur + office installeren
 nederlands:
