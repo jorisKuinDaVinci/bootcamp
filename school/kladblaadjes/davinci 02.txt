@@ -2,18 +2,20 @@
 
 
 lessen die ik nog moet maken:
+skills:
+Bronnen, skills, Bootcamp:
+A en B en de opdrachten in die mappen maken
 programmeren:
 lessen:
 les 12
 basis ICT:
 1 l PC Hardware - basiskenis moederbord & processor:
-Opdracht: CPU
 Pc en laptop samenstellen
 5.Inventarislist + mappenstructuur + office installeren:
 Inventarislijst + mappenstructuur + office installeren
 nederlands:
 studiemeter, lesmatriaal, TNT:
-lezen, spelling, stijl en woordkennis
+lezen, spelling, stijl en woordkennis (af gemaakt en ingeleverd!)
 luisteren
 zet hem als je stopt op pauze anders moet je opnieuw beginnen! (pauze knop staat linksboven!)
 engels: 
@@ -53,7 +55,7 @@ a = int(input("wat is je leeftijd?"))
 else = als het niet aan de condities voldoet dan dit
 
 
-
+int en input zijn build in functuns
 er is op het internet niets over mij te vinden. (burgerschap vraag)
 a=afwezig
 x=aanwezig
@@ -131,11 +133,11 @@ while True betekkent alltijd door gaan
 
 
 
+hoe kan ik iets aan een lijst toevoegen python
 
 
 
-
-
+Iets toevoegen kan met de functie append() . Met de append() functie kun je maar één item toevoegen aan de lijst. Iets weghalen kan met de functie remove() . Je moet de functie dan aan de naam van je lijst plakken met een puntje ertussen.
 
 
 
