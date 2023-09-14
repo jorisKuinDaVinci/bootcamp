@@ -1,0 +1,7 @@
+Apparaatnaam	Jorisschool
+Processor	11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   2.42 GHz
+Geïnstalleerd RAM-geheugen	16,0 GB (15,7 GB beschikbaar)
+Apparaat-id	7F56BC44-4A0D-4C02-A556-6B60D03C3A3E
+Product-id	00342-22141-81149-AAOEM
+Type systeem	64-bits besturingssysteem, x64-processor
+Pen en aanraken	Pen- of aanraakinvoer is niet beschikbaar voor dit beeldscherm
