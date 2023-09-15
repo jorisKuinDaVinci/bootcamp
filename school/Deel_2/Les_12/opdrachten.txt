@@ -6,4 +6,4 @@ Schrijf een programma dat de gebruiker vraagt om twee getallen in te voeren. Geb
 
 Opdracht 3:
 Schrijf een programma dat de gebruiker vraagt om een woord in te voeren. Print vervolgens het volgende:
-"Het woord is: {woord} en bestaat uit {aantal_tekens} tekens.".
+"Het woord is: {woord} en bestaat uit {aantal_tekens} tekens."..
