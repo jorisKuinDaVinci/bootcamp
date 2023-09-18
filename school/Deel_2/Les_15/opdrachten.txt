@@ -8,7 +8,7 @@ De functie retourneert de vermenigvuldiging van de twee parameters.
 
 Opdracht 3:
 Je gaat een hulpmiddel schrijven die je bij het programmeren kunt gebruiken. 
-Maak de file: user_input.py.
+Maak de file: user_input.py..
 
 Hierin schrijf je de volgende functies:
 - get_integer()

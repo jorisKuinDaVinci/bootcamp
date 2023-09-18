@@ -13,5 +13,5 @@
 #beschouwd. De functie retourneert de ingevoerde waarde als string.
 
 - get_letter() 
-#krijgt één string parameter, de prompt, en vraagt de gebruiker via die
+#.krijgt één string parameter, de prompt, en vraagt de gebruiker via die
 #prompt om één letter in te geven. Alleen letters van het alfabet zijn acceptabel. Pas als de gebruiker precies één letter heeft ingegeven eindigt de functie, en de letter wordt dan als een hoofdletter geretourneerd.
