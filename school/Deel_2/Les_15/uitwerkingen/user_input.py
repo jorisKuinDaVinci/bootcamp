@@ -1,17 +1,9 @@
-- get_integer()
-#krijgt één string parameter, de prompt, en vraagt de gebruiker via
-#die prompt om een integer in te geven. De functie retourneert een integer.
+def get_integer(zin): # parameter kun je gebruiken als var
+    getal = -1
+    while getal == -1:
+        try:
+            getal = int(input(zin))
+        except ValueError:
+            print("Voer toch eens een getal in, dat doe je nu niet.")  
 
-
-- get_float() 
-#krijgt één string parameter, de prompt, en vraagt de gebruiker via die
-#prompt om een float in te geven. De functie retourneert een float.
-
-- getString() 
-#krijgt één string parameter, de prompt, en vraagt de gebruiker via die
-#prompt om een string in te geven. Alles wat de gebruiker ingeeft wordt als correct
-#beschouwd. De functie retourneert de ingevoerde waarde als string.
-
-- get_letter() 
-#.krijgt één string parameter, de prompt, en vraagt de gebruiker via die
-#prompt om één letter in te geven. Alleen letters van het alfabet zijn acceptabel. Pas als de gebruiker precies één letter heeft ingegeven eindigt de functie, en de letter wordt dan als een hoofdletter geretourneerd.
+    return getal

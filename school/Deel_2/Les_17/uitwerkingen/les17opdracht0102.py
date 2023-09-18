@@ -20,4 +20,3 @@ if getal in getallen:
             print("Je hebt het getal niet goed geraden!")            
 else:
     print(f"Geen getal gevonden.")
-

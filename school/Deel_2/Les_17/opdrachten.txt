@@ -1,5 +1,5 @@
 Opdracht 1:
-Raad het getal.
+Raad het getal..
 Je gaat een eenvoudig raadspelletje maken. Hiervoor volg je een aantal stappen.
 1. Maak een variabele aan en vul deze met een random getal tussen 1 en 5.
 2. Vraag de gebruiker een getal in te voeren tussen 1 en 5.
