@@ -1,4 +1,4 @@
-from user_input import get_integer
+from user_input import *
 #import math
 
 
@@ -6,3 +6,6 @@ from user_input import get_integer
 #print(math.PI)
 leeftijd = get_integer("Joris hoe oud ben je?")
 print(leeftijd)
+
+liefhebber_programmeren = get_letter("Joris houdt u van programmeren J/N?")
+print(liefhebber_programmeren)
