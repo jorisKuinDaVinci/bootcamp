@@ -145,4 +145,9 @@ Iets toevoegen kan met de functie append() . Met de append() functie kun je maar
 
 
 
+waarom functies schrijven?:
+1: om een blok code hertebruiken (DRY) (dont repeat yourself)
+2: structuur
+3: functies verbergen (ze verbergen lastige dingen)
+
 
