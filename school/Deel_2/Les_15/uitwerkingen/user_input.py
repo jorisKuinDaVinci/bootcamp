@@ -8,7 +8,15 @@ def get_integer(zin): # parameter kun je gebruiken als var
 
     return getal
 
-#def get_float():
+def get_float():
+    float = ""
+    while float == "":
+        float = input(float)
+        if len(float) > 1:
+            float = ""
+            print("Max. 1 float!")
+    
+    return float
 #def get_string():
 def get_letter(vraag):
     letter = ""
