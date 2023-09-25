@@ -1,5 +1,6 @@
 99074486 is joris kuin student nummer van davinci 
-
+front-end taal= html
+back-end taal = python
 engels:
 wat voor huis leef je in:
 terraced house (rijtjeshuis)

@@ -1,0 +1,8 @@
+lessonup.app t.m 13:30
+zelf werken aan opdrachten
+
+wat weten bedrijven van jouw?:
+betaalgegevens
+naw = naam adres woonplaats
+e-mail
+geboortedatum
