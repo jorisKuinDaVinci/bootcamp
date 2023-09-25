@@ -21,6 +21,8 @@ programmeren:
 lessen:
 les 12
 les 15 tot en met einde deel 2
+verkennen:
+les 1 the basics
 basis ICT:
 5.Inventarislist + mappenstructuur + office installeren:
 Inventarislijst + mappenstructuur + office installeren
