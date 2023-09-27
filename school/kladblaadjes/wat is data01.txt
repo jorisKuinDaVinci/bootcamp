@@ -6,7 +6,7 @@ tussen de select en de from kan ik de ..... bepalen.
 na de where beinvloed ik het aantal ....
 
 
-Evt. DBeaver
+Evt. DBeaver (heb ik geintaleerd)
 
 Let op: Wil je een kolom van het type string selecteren? Let dan op de strings dus bijv. ... where name = "Pelt"
 
@@ -21,9 +21,17 @@ wil je meer types dan kun je ook een in gebruiken.
 Bijv. ... where type in ("Sheep", "Wolf")
 
 
+Docenten gesorterd op naam? Select * from teacher order by name
+aflopend? dan: Select * from teacher order by name desc
 
+
+asc (oplopend) is de default en hoef je dus niet op te geven.
+desc (aflopend) wel.
 
 select * from animal (voorbeeld code)
+Tellen?
+gebruik dan count(*) tussen de select en de from
+select count(*)from teachers where lastname = ... (voorbeeld code)
 
 
 front-end taal= html
