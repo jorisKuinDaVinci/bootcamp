@@ -8,6 +8,8 @@ na de where beinvloed ik het aantal ....
 
 Evt. DBeaver (heb ik geintaleerd)
 
+#insert into teachers (firstName, lastName, code,email) values("Joris", "Kuin", "HBU", "Joris"
+# (later afmaken als het wordt laten zien regels hierboven)
 Let op: Wil je een kolom van het type string selecteren? Let dan op de strings dus bijv. ... where name = "Pelt"
 
 de not levert precies het tegenovergesteld. Dus 
@@ -16,6 +18,56 @@ tegenover ... where not type = "Sheep"
 
 not id = 2 (doet het tegenovergestelde)
 
+
+select * from teachers order by lastName asc
+
+select * from teachers order by lastName desc
+
+select * from teachers where infix not null
+
+select * from teachers order by phone
+
+select * from teachers where email like '%@test.nl'
+
+select email from teachers where email like '%@test.nl'
+
+select count(*) from teachers where email like '%@test.nl'
+
+select min(*) from teachers 
+
+select max(*) from teachers 
+
+select avg(*) from teachers #(gemiddelde)
+
+select * from teachers where limit 2
+
+select * from teachers where fetch first 2 rows only
+
+select * from teachers fetch first 2 rows only
+
+select * from teachers limit 2
+
+select * from teachers order by id desc limit 2
+
+select * from teachers limit 5
+
+select * from courses where has_exame = 1
+
+select * from courses where has_exame = 1 and is_avo = 1
+
+select * from courses 
+
+select * from courses where name in ("Rekenen", "Engels")
+
+select * from teachers where lastname = "Slemmer"
+
+select * from teachers where lastname like "%e%" (% = alles met in de code is dat alles met e)
+
+select * from teachers where lastname like "%er" (% = alles met in de code is dat alles met er)
+
+select * from teachers where lastname like "_lemmer" (% = alles met in de code is dat alles met er)
+
+#like = zoals
 
 wil je meer types dan kun je ook een in gebruiken.
 Bijv. ... where type in ("Sheep", "Wolf")
