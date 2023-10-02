@@ -1,4 +1,4 @@
-lessonup.app t.m 13:30
+lessonup.app
 zelf werken aan opdrachten
 
 
