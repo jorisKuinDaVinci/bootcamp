@@ -72,6 +72,18 @@ select * from teachers where lastname like "_lemmer" (% = alles met in de code i
 wil je meer types dan kun je ook een in gebruiken.
 Bijv. ... where type in ("Sheep", "Wolf")
 
+Welke planten hebben een naam waarvan de eerste letter een b en de derde letter een e is?
+
+select plantnaam 
+from `plant` 
+where plantnaam like "b_e%"
+
+
+
+select plantnaam, `bloeitijd-einde`, `bloeitijd-start`, (`bloeitijd-einde`- `bloeitijd-start`) as bloeitijd_in_maanden
+from `plant`
+where `bloeitijd-einde` - `bloeitijd-start` + 1 = 4
+
 
 Docenten gesorterd op naam? Select * from teacher order by name
 aflopend? dan: Select * from teacher order by name desc
