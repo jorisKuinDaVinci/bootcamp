@@ -33,6 +33,16 @@ select email from teachers where email like '%@test.nl'
 
 select count(*) from teachers where email like '%@test.nl'
 
+select sum(defense) as totale_verdediging from animal where speed < 5
+
+select * from animal where speed = ()
+
+select * from animal where id = 77
+
+select *, (select name from person where id = owner) as eigenaar from animal where id = 77 
+
+select *, (select name from person as p where p.id = owner) from animal as a
+
 select min(*) from teachers 
 
 select max(*) from teachers 
