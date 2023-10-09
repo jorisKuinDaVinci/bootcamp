@@ -33,15 +33,46 @@ select email from teachers where email like '%@test.nl'
 
 select count(*) from teachers where email like '%@test.nl'
 
+select length(lastName), lastname from teachers order by length(lastname) desc limit 1
+
 select sum(defense) as totale_verdediging from animal where speed < 5
 
 select * from animal where speed = ()
 
 select * from animal where id = 77
 
+select animal.type, (select name from person where id = animal.owner) from animal 
+
+select animal.type, (select name from person where id = animal.owner) as eigenaar from animal 
+
+select animal.type, (select name from person where id = animal.owner) as eigenaar from animal where not eigenaar is null
+
 select *, (select name from person where id = owner) as eigenaar from animal where id = 77 
 
 select *, (select name from person as p where p.id = owner) from animal as a
+
+select avg(speed) from animal
+
+select min(speed) from animal 
+
+select *, (select name from person where id = animal.owner) as eigenaar, from animal where owner = 2
+
+---------------------------------------------------------------------------------------------------------------------------
+
+join
+
+
+select animal. *, person.name, person.sex from animal left join person on person.id = animal.owner
+
+select animal. *, person.name, person.sex from animal join person on person.id = animal.owner
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+select count(*) from where speed = (select min(speed) from animal)
+
+select type, defense from where speed = (select min(speed) from animal)
+
+select count(*) from animal where owner <> 0
 
 select min(*) from teachers 
 
