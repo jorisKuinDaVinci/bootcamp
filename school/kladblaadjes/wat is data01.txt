@@ -184,3 +184,89 @@ tables (tabellen):
 
 
 select kolemnaam, kolomnaam of * from tabelnaam where coditie: id > 3 (veldnaam vergelijking waarde)
+
+
+
+
+
+
+
+create table product(
+id INTERGER PRIMARY KEY,
+naam varchar(25),
+soort interger,
+prijs real,
+prijs_10 real,
+allergenen varchar(50)
+)
+
+
+
+
+create table product(
+id INTERGER PRIMARY KEY,
+naam varchar(25),
+soort interger,
+prijs real,
+prijs_10 real,
+allergenen varchar(50)
+)
+
+
+
+INSERT INTO product (id, naam, soort, prijs, prijs_10, allergenen) VALUES (2, 'Appelflappen', 3, 2.5, 14.0, 'Gluten, Eggs ' );
+
+INSERT INTO product (id, naam, soort, prijs, prijs_10, allergenen) VALUES (1, 'Oliebollen', 2, 1.5, 13.0, 'Gluten, Eggs ' );
+
+INSERT INTO your_table_name (id, naam, soort, prijs, prijs_10, allergenen) VALUES (1, 'Oliebollen', 2, 1.5, 13.0, 'Gluten, Eggs ' );
+
+
+select * from product
+
+
+
+
+
+
+
+
+id INTERGER PRIMARY KEY,
+naam varchar(25),
+soort interger,
+prijs real,
+prijs_10 real,
+allergenen varchar(50)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+create table product(
+id INTERGER PRIMARY KEY,
+naam varchar(25),
+soort interger,
+prijs real,
+heeft_DLC varchar(50)
+)
+
+
+create table product_2(
+id INTERGER PRIMARY KEY,
+naam varchar(25),
+soort interger,
+prijs real,
+heeft_DLC varchar(50)
+)
+INSERT INTO product_2 (id, naam, soort, prijs, heeft_DLC) VALUES (1, 'EAW', 2, 19.5, 'ja ' );
+
